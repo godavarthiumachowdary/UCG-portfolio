@@ -1,0 +1,9 @@
+Hello I'am
+Sri Siva Teja Pavan
+React.js Developer
+
+## colors
+green : #2eb6ae
+
+name font family 
+font-family: 'Secular One', sans-serif;
